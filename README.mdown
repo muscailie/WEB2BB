@@ -1,0 +1,8 @@
+This is an unofficial git repository for the WEB2BB framework. All version history and tags were copied from the source zip files.
+
+## Note:
+* 	v0.0.8-mod
+
+	This version contains some modifications not included in the official release.
+	The modifications include a few small path bugfixes, and re-adding support for older versions of PHP 5.
+	If you want to use the official releases, please steer clear of the *-mod* versions.
